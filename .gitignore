@@ -1,5 +1,5 @@
-02-notifon/python_automation_key.pem
-02-notifon/python_automation_key.ppk
+*.pem
+*.ppk
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
